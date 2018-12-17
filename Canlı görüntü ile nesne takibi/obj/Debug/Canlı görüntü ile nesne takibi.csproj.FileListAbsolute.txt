@@ -1,0 +1,51 @@
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\Canlı görüntü ile nesne takibi.exe.config
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\Canlı görüntü ile nesne takibi.exe
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\Canlı görüntü ile nesne takibi.pdb
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Controls.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Genetic.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Imaging.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Math.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Neuro.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Vision.dll
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Controls.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Genetic.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Math.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Neuro.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\bin\Debug\AForge.Vision.xml
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\obj\Debug\Canlı görüntü ile nesne takibi.csprojAssemblyReference.cache
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\obj\Debug\Canlı_görüntü_ile_nesne_takibi.Form1.resources
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\obj\Debug\Canlı_görüntü_ile_nesne_takibi.Properties.Resources.resources
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\obj\Debug\Canlı görüntü ile nesne takibi.csproj.GenerateResource.cache
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\obj\Debug\Canlı görüntü ile nesne takibi.csproj.CoreCompileInputs.cache
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\obj\Debug\Canlı görüntü ile nesne takibi.csproj.CopyComplete
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\obj\Debug\Canlı görüntü ile nesne takibi.exe
+C:\Users\Recep AKBULUT\source\repos\Canlı görüntü ile nesne takibi\Canlı görüntü ile nesne takibi\obj\Debug\Canlı görüntü ile nesne takibi.pdb

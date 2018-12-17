@@ -1,0 +1,17 @@
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\nesne takibi 3x3 led yakma.exe.config
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\nesne takibi 3x3 led yakma.exe
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\nesne takibi 3x3 led yakma.pdb
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\AForge.xml
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\AForge.Imaging.xml
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\AForge.Math.xml
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\AForge.Video.xml
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\bin\Debug\AForge.Vision.xml
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\obj\Debug\nesne takibi 3x3 led yakma.csprojAssemblyReference.cache
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\obj\Debug\nesne_takibi_3x3_led_yakma.Form1.resources
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\obj\Debug\nesne_takibi_3x3_led_yakma.Properties.Resources.resources
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\obj\Debug\nesne takibi 3x3 led yakma.csproj.GenerateResource.cache
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\obj\Debug\nesne takibi 3x3 led yakma.csproj.CoreCompileInputs.cache
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\obj\Debug\nesne takibi 3x3 led yakma.csproj.CopyComplete
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\obj\Debug\nesne takibi 3x3 led yakma.exe
+C:\Users\FEYZA-VAIO\source\repos\nesne takibi 3x3 led yakma\nesne takibi 3x3 led yakma\obj\Debug\nesne takibi 3x3 led yakma.pdb
